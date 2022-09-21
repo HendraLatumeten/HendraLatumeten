@@ -12,7 +12,7 @@
 I am a Backend Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia 🇮🇩.
 
 - 🙍‍♂️ I’m Learning (BootCamp) as a Backend Golang at [Fazztrack](https://fazztrack.com/).
-- 🔖 Programming languages that I master other than Golang such as Laravel, CodeIgniter, Nodejs and ExpressJs
+- 🔖 Programming languages that I master other than Golang such as Laravel, CodeIgniter, Nodejs and ExpressJs and others.
 - ⚡  And also for databases like Mysql and PostgresSql.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hendralatumeten-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Hendralatumeten)
 
