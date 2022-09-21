@@ -46,8 +46,9 @@ I am a Backend Golang Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendraLatumeten&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 📌 Connect My Social Media
- [Facebook](https://web.facebook.com/hendra.latumeten)
- [Instagram](https://www.instagram.com/hendralatumeten)
+ - [Facebook](https://web.facebook.com/hendra.latumeten)
+ 
+ - [Instagram](https://www.instagram.com/hendralatumeten)
 
 
 
